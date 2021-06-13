@@ -221,23 +221,73 @@ class: inverse, center, middle
 .panelset[
 
 .panel[.panel-name[Cadena de valor]
+<br>
+<br>
+<br>
+<br>
+```{r valor, fig.align='center', out.width='100%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/Valor_1.png')
+```
 ]
 
 .panel[.panel-name[Datos]
+.pull-left[
+<p align="justify"> Los datos son una representación simbólica cuantitativa o cualitativa de una característica particular de la realidad que se obtiene a través de un procedimiento de captura o transferencia.
+
+```{r datos, fig.align='center', out.width='55%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/F_9.png')
+```
+<font size=1><b>Disponible en: </b><a href="https://raw.githubusercontent.com/estadisticaun/L_Conceptual/master/imagenes/F_9.png?token=AHYPBYXQ2ZQXAQDE7VOR7ILAXYMBM">Capítulo 3. Gestión de la Información en las Universidades.</a></font>
+]
+.pull-right[
+```{r sql, fig.align='center', out.width='80%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/SQLNOSQL.png')
+```
+<font size=1><b>Disponible en: </b><a href="https://raw.githubusercontent.com/estadisticaun/L_Conceptual/master/imagenes/F_9.png?token=AHYPBYXQ2ZQXAQDE7VOR7ILAXYMBM">Capítulo 3. Gestión de la Información en las Universidades.</a></font>
+]
 ]
 
 .panel[.panel-name[Transformación y almacenamiento]
+.pull-left[
+<br>
+<br>
+<br>
+```{r almac, fig.align='center', out.width='80%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/Valor_3.png')
+```
+]
+.pull-right[
+]
 ]
 
 .panel[.panel-name[Información]
+.pull-left[
+<br>
+<br>
+<br>
+```{r info, fig.align='center', out.width='80%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/Valor_4.png')
+```
+]
+.pull-right[
+]
 ]
 
 .panel[.panel-name[Comunicación]
+.pull-left[
+<br>
+<br>
+<br>
+```{r comu, fig.align='center', out.width='80%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/Valor_5.png')
+```
+]
+.pull-right[
+]
 ]
 
 .panel[.panel-name[Las decisiones]
 ]
-
 ]
 
 
