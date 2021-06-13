@@ -243,7 +243,7 @@ knitr::include_graphics('Imagenes/F_9.png')
 ```{r sql, fig.align='center', out.width='80%', fig.show='hold', echo=FALSE}
 knitr::include_graphics('Imagenes/SQLNOSQL.png')
 ```
-<font size=1><b>Disponible en: </b><a href="https://raw.githubusercontent.com/estadisticaun/L_Conceptual/master/imagenes/F_9.png?token=AHYPBYXQ2ZQXAQDE7VOR7ILAXYMBM">Capítulo 3. Gestión de la Información en las Universidades.</a></font>
+<font size=1><b>Disponible en: </b><a href="https://raw.githubusercontent.com/estadisticaun/DAFP_tecnologia/main/Imagenes/SQLNOSQL.png">https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106.</a></font>
 ]
 ]
 
@@ -257,6 +257,9 @@ knitr::include_graphics('Imagenes/Valor_3.png')
 ```
 ]
 .pull-right[
+```{r almacen, fig.align='center', out.width='80%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/Almacen.png')
+```
 ]
 ]
 
@@ -270,6 +273,9 @@ knitr::include_graphics('Imagenes/Valor_4.png')
 ```
 ]
 .pull-right[
+```{r informa, fig.align='center', out.width='75%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/Informacion.png')
+```
 ]
 ]
 
@@ -283,12 +289,31 @@ knitr::include_graphics('Imagenes/Valor_5.png')
 ```
 ]
 .pull-right[
+```{r comunica, fig.align='center', out.width='75%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/HTML.png')
+```
 ]
 ]
 
 .panel[.panel-name[Las decisiones]
 ]
+
+.panel[.panel-name[En conclusión]
+```{r Herramientas, fig.align='center', out.width='50%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/F_14.png')
+```
+<font size=2><b>Disponible en: </b><a href="https://raw.githubusercontent.com/estadisticaun/DAFP_tecnologia/main/Imagenes/F_14.png">Capítulo 3. Gestión de la Información en las Universidades.</a></font>
 ]
+
+.panel[.panel-name[Herramientas en la UNAL]
+<br>
+<br>
+```{r unal, fig.align='center', out.width='100%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/UNAL.png')
+```
+]
+]
+
 
 
 ---
